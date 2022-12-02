@@ -26,3 +26,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="45" height="45"/>
 </p>
 
+<!--Aquí comienza el cuerpo de la página-->

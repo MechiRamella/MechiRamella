@@ -38,8 +38,7 @@
 <!--Aquí comienza el cuerpo de la página-->
 <!--Aquí comienza el cuerpo de la página-->
 <!--Aquí comienza el cuerpo de la página-->
-<!--Aquí comienza el cuerpo de la página-->
-<!--Aquí comienza el cuerpo de la página-->
+
 
 
 
